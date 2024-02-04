@@ -8,10 +8,10 @@ GIS and Planning professional with 8 years’ experience in volunteer and profes
 ### TECHNICAL EXPERIENCE
 ArcGIS 10.x, Pro • ArcGIS Online • SDE/Spatial Databases • Data Analysis •SDSFIE • Database • Python/Modelbuilder • Editing/Analysis • Georeferencing • Geoprocessing • Rstudio• PostGIS/SQL
 ### EDUCATION 
-University of Oklahoma, Norman, OK
-Current Student, M.S. Geospatial Technology
-St. Cloud State University, St. Cloud, MN, 
-May 2015 BA planning and community development Environmental planning. GIS in Planning, GIS minor 
+University of Oklahoma, Norman, OK 
+- May 2024, M.S. Geospatial Technology
+St. Cloud State University, St. Cloud, MN
+- May 2015 BA planning and community development Environmental planning. GIS in Planning, GIS minor 
 # PROFESSIONAL EXPERIENCE
 ### • Insight Global/HDR Inc 2023- Current 
 GIS Analyst. Data Enhancement.  Update USAFA Infrastructure GIS/Geodatabase based on As-Built Documents. 
