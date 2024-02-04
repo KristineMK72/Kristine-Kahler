@@ -24,14 +24,14 @@ GIS Analyst. Data Enhancement. Update USAFA Infrastructure GIS/Geodatabase worki
 GIS Technician/Electric Data Analyst. Data Enhancement.  Update Electric database, verify objects, modify maps related to electric feeders. 
 ###  Freelance GIS Specialist (self-employed, ongoing), 2011 – Current 
 Working with local agencies, and nonprofits as analyst, technician. QGIS, ArcPro, ArcMap 10.x
-###  ESG Consulting, Inc (GDOT) MGRC, Macon GA November 2021 – January 2022
+###  ESG Consulting, Inc (GDOT) MGRC, Macon GA 2021 – 2022
  GIS Technician • Update GDOT GIS database, digitizing local roadway features. • MAP-21 Federal Project (REVAMP) • ArcPro 2.9 
-###  Aerotek (Ramtech) Stillwater, MN June 2021 – November 2021 
+###  Aerotek (Ramtech) Stillwater, MN, 2021 
 GIS Technician II • Maintain, and update the SDE database, digitizing service lines, and related features based on legacy work orders. 
 Assist GIS Tech I coworkers with GIS, gas service projects. 
-###  Mindlance (Xcel Energy) Minneapolis, MN October 2020 – June 2021 
+###  Mindlance (Xcel Energy) Minneapolis, MN, 2020 – 2021 
 GIS Technician III (contract) • Created energy-related cases for new and existing services. Query client DB and GIS, related to Tax jurisdiction, existing service and new joint trench (plats) projects. 
-###  Business Technical Services, Dayton, OH July 2020 – October 2020 
+###  Business Technical Services, Dayton, OH, 2020 
 Meter Survey Technician (contract) • Data collection and meter survey project using ArcGIS Collector/Survey, QA/QC field work in client’s ArcGIS, ArcGIS Online 10x 
 ### Aitkin County, Aitkin, MN February 2016 – November 2016 Environmental Services- Intern 
  Updated County GIS Data using ArcGIS Online, ArcMap 10.x Collector apps. • Located and digitized/GPS wells based on MN Dept. of Health and County historical records. Converted tabular data to spatial data. 
