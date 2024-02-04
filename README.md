@@ -5,7 +5,7 @@ kkahler190@gmail.com
 
 # Background and Experience
 # OBJECTIVE: 
-# GIS and Planning professional with 8 years’ experience in volunteer and professional roles, combined with extensive ESRI and ArcGIS, QGIS product knowledge and use. Excels in organizing complex datasets into maps for accessibility and communication. Excellent in solo, team, and leadership roles. 
+GIS and Planning professional with 8 years’ experience in volunteer and professional roles, combined with extensive ESRI and ArcGIS, QGIS product knowledge and use. Excels in organizing complex datasets into maps for accessibility and communication. Excellent in solo, team, and leadership roles. 
 # TECHNICAL EXPERIENCE
 ArcGIS 10.x, Pro • ArcGIS Online • SDE/Spatial Databases • Data Analysis •SDSFIE • Database • Python/Modelbuilder • Editing/Analysis • Georeferencing • Geoprocessing • Rstudio• PostGIS/SQL
 # EDUCATION 
@@ -14,8 +14,10 @@ Current Student, M.S. Geospatial Technology
 St. Cloud State University, St. Cloud, MN, 
 May 2015 BA planning and community development Environmental planning. GIS in Planning, GIS minor 
 # PROFESSIONAL EXPERIENCE
-# • Insight Global/HDR Inc 2023- current. GIS Analyst. Data Enhancement.  Update USAFA Infrastructure GIS/Geodatabase based on As-Built Documents. 
-# • Experis/National Grid 2022- current. GIS Technician/Electric Data Analyst. Data Enhancement.  Update Electric database, verify objects, modify maps related to electric feeders. 
+# • Insight Global/HDR Inc 2023- current. 
+GIS Analyst. Data Enhancement.  Update USAFA Infrastructure GIS/Geodatabase based on As-Built Documents. 
+# • Experis/National Grid 2022- current. 
+GIS Technician/Electric Data Analyst. Data Enhancement.  Update Electric database, verify objects, modify maps related to electric feeders. 
 # • Freelance GIS Specialist (self-employed, ongoing), 2011 – current 
 Working with local agencies, nonprofits as analyst, technician. QGIS, ArcPro, ArcMap 10.x
  # • ESG Consulting, Inc (GDOT) MGRC, Macon GA November 2021 – January 2022
