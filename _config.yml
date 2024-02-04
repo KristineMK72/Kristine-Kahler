@@ -1,6 +1,6 @@
 title: Kris Kahler
 description: Professional Site 
-#logo: "C:\Users\momkr\Downloads\kk3.jpg"
+#logo: /assets/img/C:/Users/momkr/Downloads/kk3.jpg
 # description: text below image
 show_downloads: true
-theme: pages-themes/leap-day@v0.2.0
+theme: jekyll-theme-minimal
