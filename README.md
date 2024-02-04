@@ -1,5 +1,5 @@
 # Kristine Kahler Portfolio
-## GeoSpatial Technologies
+## GeoSpatial Technology 
 218-839-1327 / kkahler190@gmail.com
 
 # Background and Experience
