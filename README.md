@@ -13,11 +13,11 @@ Current Student, M.S. Geospatial Technology
 St. Cloud State University, St. Cloud, MN, 
 May 2015 BA planning and community development Environmental planning. GIS in Planning, GIS minor 
 # PROFESSIONAL EXPERIENCE
-### • Insight Global/HDR Inc 2023- current. 
+### • Insight Global/HDR Inc 2023- Current 
 GIS Analyst. Data Enhancement.  Update USAFA Infrastructure GIS/Geodatabase based on As-Built Documents. 
-### • Experis/National Grid 2022- current. 
+### • Experis/National Grid 2022-2023
 GIS Technician/Electric Data Analyst. Data Enhancement.  Update Electric database, verify objects, modify maps related to electric feeders. 
-### • Freelance GIS Specialist (self-employed, ongoing), 2011 – current 
+### • Freelance GIS Specialist (self-employed, ongoing), 2011 – Current 
 Working with local agencies, nonprofits as analyst, technician. QGIS, ArcPro, ArcMap 10.x
 ### • ESG Consulting, Inc (GDOT) MGRC, Macon GA November 2021 – January 2022
  GIS Technician • Update GDOT GIS database, digitizing local roadway features. • MAP-21 Federal Project (REVAMP) • ArcPro 2.9 
