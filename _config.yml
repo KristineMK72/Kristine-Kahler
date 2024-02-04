@@ -1,6 +1,10 @@
 title: Kris Kahler
-description: Professional Site 
-#logo: /asset
+description: GeoGeek
+#logo: kk3.jpg
 # description: text below image
 show_downloads: true
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-seo-tag #Add SEO plugin
+email: kkahler190@gmail.com
