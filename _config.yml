@@ -3,7 +3,4 @@ description: Professional Site
 #logo: "C:\Users\momkr\Downloads\kk3.jpg"
 # description: text below image
 show_downloads: true
-remote_theme: pages-themes/leap-day@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-gem "github-pages", group: :jekyll_plugins
+theme: pages-themes/leap-day@v0.2.0
