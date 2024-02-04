@@ -8,3 +8,4 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag #Add SEO plugin
 email: kkahler190@gmail.com
+image: baxter.PNG
