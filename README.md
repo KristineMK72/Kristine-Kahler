@@ -33,9 +33,9 @@ Assist GIS Tech I coworkers with GIS, gas service projects.
 GIS Technician III (contract) • Created energy-related cases for new and existing services. Query client DB and GIS, related to Tax jurisdiction, existing service and new joint trench (plats) projects. 
 ###  Business Technical Services, Dayton, OH, 2020 
 Meter Survey Technician (contract) • Data collection and meter survey project using ArcGIS Collector/Survey, QA/QC field work in client’s ArcGIS, ArcGIS Online 10x 
-### Aitkin County, Aitkin, MN February 2016 – November 2016 Environmental Services- Intern 
+### Aitkin County, Aitkin, MN, 2016 Environmental Services- Intern 
  Updated County GIS Data using ArcGIS Online, ArcMap 10.x Collector apps. • Located and digitized/GPS wells based on MN Dept. of Health and County historical records. Converted tabular data to spatial data. 
-### City of Baxter, Baxter, MN June 2014 – August 2014, Intern 
+### City of Baxter, Baxter, MN, 2014, Intern 
 Query SQL DB for data relating to land use cases. Updated, digitized, and maintained city/county GIS land use cases, public works road and utility features with ArcMap 10.6.
 
 # Projects
