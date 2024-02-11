@@ -42,8 +42,8 @@ Meter Survey Technician (contract) • Data collection and meter survey project 
 Query SQL DB for data relating to land use cases. Updated, digitized, and maintained city/county GIS land use cases, public works road and utility features with ArcMap 10.6.
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[New York Executive Orders Housing](/sample_page)
+<img src="C:/Users/momkr/Pictures/Screenshots/Screenshot 2023-12-03 123130.png"?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
