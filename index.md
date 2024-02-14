@@ -43,7 +43,7 @@ Query SQL DB for data relating to land use cases. Updated, digitized, and mainta
 ### Category Name 1 
 
 [New York Executive Orders Housing](/sample_page)
-<img src="C:/Users/momkr/Pictures/Screenshots/Screenshot 2023-12-03 123130.png"?raw=true"/>
+<img src="rentals.png"?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
