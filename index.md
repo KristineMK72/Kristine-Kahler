@@ -46,7 +46,7 @@ Query SQL DB for data relating to land use cases. Updated, digitized, and mainta
 <img src="rentals.png"?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+![hot](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/b469b96a-38c6-41f5-88db-9c114b3e15ce)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
