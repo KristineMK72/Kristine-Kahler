@@ -39,3 +39,4 @@ Meter Survey Technician (contract) • Data collection and meter survey project 
 Query SQL DB for data relating to land use cases. Updated, digitized, and maintained city/county GIS land use cases, public works road and utility features with ArcMap 10.6.
 
 # Projects
+![Brainerd](https://github.com/KristineMK72/Kristine-Kahler/files/14337469/Layout.pdf)
