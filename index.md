@@ -69,7 +69,7 @@ Meter Survey Technician (contract) • Data collection and meter survey project 
  Updated County GIS Data using ArcGIS Online, ArcMap 10.x Collector apps. • Located and digitized/GPS wells based on MN Dept. of Health and County historical records. Converted tabular data to spatial data. 
 ### City of Baxter, Baxter, MN, 2014, Intern 
 Query SQL DB for data relating to land use cases. Updated, digitized, and maintained city/county GIS land use cases, public works road and utility features with ArcMap 10.6.
-### Category Name 1 
+### Creations 
 
 ![hot](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/b469b96a-38c6-41f5-88db-9c114b3e15ce)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -85,13 +85,14 @@ Query SQL DB for data relating to land use cases. Updated, digitized, and mainta
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-### Category Name 2
+### Labs and Projects placeholder
 
 - [Saudi Digital Image Processing Classification](https://github.com/KristineMK72/Kristine-Kahler/files/14337745/SaudiLab.pdf)
 - [Brainerd](https://github.com/KristineMK72/Kristine-Kahler/issues/1)
 - [RStudioLung](https://github.com/KristineMK72/Kristine-Kahler/files/14338308/KKahlerPennLungCancer.pdf)
 - [DelphiKnowBeforeYouGo](https://github.com/KristineMK72/Kristine-Kahler/files/14338451/delphi.pdf)
-- [Project 5 Title](http://example.com/)
+- [LIDAR View of Mount Sanitas.pdf](https://github.com/KristineMK72/Kristine-Kahler/files/14338487/LIDAR.View.of.Mount.Sanitas.pdf)
+
 
 ---
 
