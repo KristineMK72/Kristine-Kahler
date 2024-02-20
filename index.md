@@ -18,13 +18,15 @@ ArcGIS 10.x, ArcGIS Pro • ArcGIS Online • SDE/Spatial Databases • Data Ana
 ### EDUCATION 
 University of Oklahoma, Norman, OK 
 - May 2024, M.S. Geospatial Technology
-  
+  ![e6757861211d2926bcaadc7ff4eca8b6](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/fb14633f-00ba-4640-895e-004016b14d98)
+
+
 St. Cloud State University, St. Cloud, MN
 - May 2015 BA Planning and Community Development
 - Environmental Planning
 - GIS in Planning
 - GIS minor
-  
+  ![scsu](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/9aa99cee-8755-4953-bfee-4acf1966cdfe)
 # PROFESSIONAL EXPERIENCE
 ###  Insight Global/HDR Inc 2023- Current 
 GIS Analyst. Data Enhancement. Update USAFA Infrastructure GIS/Geodatabase working with As-Built Documents. 
