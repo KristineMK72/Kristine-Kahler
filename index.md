@@ -2,7 +2,7 @@
 
 ---
 # Kristine Kahler 
-
+![world](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/65d62dde-6aaf-4350-9f64-972785d631eb)
 ## Sustainability with GIS 
 218-839-1327 / kkahler190@gmail.com
 
