@@ -57,7 +57,8 @@ Query SQL DB for data relating to land use cases. Updated, digitized, and mainta
 
 ### Category Name 2
 
-- [Saudi Classification]([SaudiLab.pdf](https://github.com/KristineMK72/Kristine-Kahler/files/14337587/SaudiLab.pdf)
+- [Saudi Digital Image Processing Classification](https://github.com/KristineMK72/Kristine-Kahler/files/14337745/SaudiLab.pdf)
+
 - [Brainerd](https://github.com/KristineMK72/Kristine-Kahler/issues/1)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
