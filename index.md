@@ -30,18 +30,33 @@ ArcGIS 10.x, ArcGIS Pro • ArcGIS Online • SDE/Spatial Databases • Data Ana
  
 # PROFESSIONAL EXPERIENCE
 ###  Insight Global/HDR Inc 2023- Current 
-GIS Analyst. Data Enhancement. Update USAFA Infrastructure GIS/Geodatabase working with As-Built Documents. 
+GIS Analyst
+- Data Enhancement 
+- Update USAFA Infrastructure GIS/Geodatabase working with As-Built Documents. 
+
 ###  Experis/National Grid 2022-2023
-GIS Technician/Electric Data Analyst. Data Enhancement.  Update Electric database, verify objects, modify maps related to electric feeders. 
+GIS Technician/Electric Data Analyst. 
+- Data Enhancement, virtual walkdown via ArcGisOnline
+- Update Electric Geodatabase, verify objects, modify maps related to electric feeders. 
+- Push requests to maps and records for changes related to electric assets on primary index map
+  
 ###  Freelance GIS Specialist (self-employed, ongoing), 2011 – Current 
 Working with local agencies, and nonprofits as analyst, technician. QGIS, ArcPro, ArcMap 10.x
 ###  ESG Consulting, Inc (GDOT) MGRC, Macon GA 2021 – 2022
  GIS Technician • Update GDOT GIS database, digitizing local roadway features. • MAP-21 Federal Project (REVAMP) • ArcPro 2.9 
 ###  Aerotek (Ramtech) Stillwater, MN, 2021 
-GIS Technician II • Maintain, and update the SDE database, digitizing service lines, and related features based on legacy work orders. 
-Assist GIS Tech I coworkers with GIS, gas service projects. 
+GIS Technician II 
+- Maintain, and update the SDE database
+- Digitize service lines and related features based on legacy work orders
+- Assist GIS Tech I coworkers with GIS, gas service projects
+- Assign work orders to Tech 1s
+   
 ###  Mindlance (Xcel Energy) Minneapolis, MN, 2020 – 2021 
-GIS Technician III (contract) • Created energy-related cases for new and existing services. Query client DB and GIS, related to Tax jurisdiction, existing service and new joint trench (plats) projects. 
+GIS Technician III (contract) 
+- Created energy-related cases for new and existing services
+-  Query client DB and GIS related to Tax jurisdiction
+-  Pushed work related to existing service and new joint trench (plats) projects.
+- 
 ###  Business Technical Services, Dayton, OH, 2020 
 Meter Survey Technician (contract) • Data collection and meter survey project using ArcGIS Collector/Survey, QA/QC field work in client’s ArcGIS, ArcGIS Online 10x 
 ### Aitkin County, Aitkin, MN, 2016 Environmental Services- Intern 
