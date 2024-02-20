@@ -18,10 +18,11 @@ ArcGIS 10.x, ArcGIS Pro • ArcGIS Online • SDE/Spatial Databases • Data Ana
 ### EDUCATION 
 ![th](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/9f289dde-0bb3-4a06-a18f-6c720f82c7a7)
 
-University of Oklahoma, Norman, OK 
+# University of Oklahoma, Norman, OK 
 - May 2024, M.S. Geospatial Technology
 
  ![scsu](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/9aa99cee-8755-4953-bfee-4acf1966cdfe)
+ # St. Cloud State University, St. Cloud, MN
 - May 2015 BA Planning and Community Development
 - Environmental Planning
 - GIS in Planning
