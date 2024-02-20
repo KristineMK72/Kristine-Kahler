@@ -47,9 +47,16 @@ GIS Technician/Electric Data Analyst.
 - Push requests to maps and records for changes related to electric assets on primary index map
   
 ###  Freelance GIS Specialist (self-employed, ongoing), 2011 – Current 
-Working with local agencies, and nonprofits as analyst, technician. QGIS, ArcPro, ArcMap 10.x
+- Working with local agencies and nonprofits
+- Analyst and technician.
+- QGIS, ArcPro, ArcMap 10.x
+  
 ###  ESG Consulting, Inc (GDOT) MGRC, Macon GA 2021 – 2022
- GIS Technician • Update GDOT GIS database, digitizing local roadway features. • MAP-21 Federal Project (REVAMP) • ArcPro 2.9 
+ GIS Technician 
+ - Update GDOT GIS database
+ - Digitize local roadway features
+ - MAP-21 Federal Project (REVAMP)
+ - ArcPro 2.9 
 ###  Aerotek (Ramtech) Stillwater, MN, 2021 
 GIS Technician II 
 - Maintain, and update the SDE database
@@ -60,15 +67,25 @@ GIS Technician II
 ###  Mindlance (Xcel Energy) Minneapolis, MN, 2020 – 2021 
 GIS Technician III (contract) 
 - Created energy-related cases for new and existing services
--  Query client DB and GIS related to Tax jurisdiction
--  Pushed work related to existing service and new joint trench (plats) projects.
-- 
+- Query client DB and GIS related to Tax jurisdiction
+- Pushed work related to existing service and new joint trench (plats) projects.
+
 ###  Business Technical Services, Dayton, OH, 2020 
-Meter Survey Technician (contract) • Data collection and meter survey project using ArcGIS Collector/Survey, QA/QC field work in client’s ArcGIS, ArcGIS Online 10x 
-### Aitkin County, Aitkin, MN, 2016 Environmental Services- Intern 
- Updated County GIS Data using ArcGIS Online, ArcMap 10.x Collector apps. • Located and digitized/GPS wells based on MN Dept. of Health and County historical records. Converted tabular data to spatial data. 
-### City of Baxter, Baxter, MN, 2014, Intern 
-Query SQL DB for data relating to land use cases. Updated, digitized, and maintained city/county GIS land use cases, public works road and utility features with ArcMap 10.6.
+Meter Survey Technician (contract) 
+-  Data collection and meter survey project using ArcGIS Collector/Survey,
+-  QA/QC field work in client’s ArcGIS, ArcGIS Online 10x
+  
+### Aitkin County, Aitkin, MN, 2016 Environmental Services
+Intern 
+- Updated County GIS Data using ArcGIS Online, ArcMap 10.x Collector apps.
+- Located and digitized/GPS wells based on MN Dept. of Health and County historical records.
+- Converted tabular data to spatial data.
+
+### City of Baxter, Baxter, MN, 2014, 
+Intern 
+- Query SQL DB for data relating to land use cases.
+- Updated, digitized, and maintained city/county GIS land use cases, public works road and utility features with ArcMap 10.6.
+
 ### Creations 
 
 ![hot](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/b469b96a-38c6-41f5-88db-9c114b3e15ce)
