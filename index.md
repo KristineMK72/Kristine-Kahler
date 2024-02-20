@@ -16,12 +16,11 @@ GIS and Planning professional with 8 years experience in volunteer and professio
 
 ArcGIS 10.x, ArcGIS Pro • ArcGIS Online • SDE/Spatial Databases • Data Analysis •SDSFIE • Database • Python/Modelbuilder • Editing/Analysis • Georeferencing • Geoprocessing • Rstudio • PostGIS/SQL • QGIS
 ### EDUCATION 
+![th](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/9f289dde-0bb3-4a06-a18f-6c720f82c7a7)
+
 University of Oklahoma, Norman, OK 
 - May 2024, M.S. Geospatial Technology
-<img src ="https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/fb14633f-00ba-4640-895e-004016b14d98" width="50 height= "50"
 
-
-St. Cloud State University, St. Cloud, MN
  ![scsu](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/9aa99cee-8755-4953-bfee-4acf1966cdfe)
 - May 2015 BA Planning and Community Development
 - Environmental Planning
