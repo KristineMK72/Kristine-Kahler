@@ -9,6 +9,11 @@
 ## OBJECTIVE: 
 GIS and Planning professional with 8 years experience in volunteer and professional roles, combined with extensive ESRI and ArcGIS, QGIS product knowledge and use. Excels in organizing complex datasets into maps for accessibility and communication. Excellent in solo, team, and leadership roles. 
 ### TECHNICAL EXPERIENCE
+![postgres](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/29ef67e1-df08-4f43-9f76-1b2a1bfad989)
+![python](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/2266657c-4a73-42d0-a552-d6b2b90c100f)
+![qgis](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/bec329f7-5c70-411e-9538-6e0a10572640)
+![esri](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/8c14cad7-cedf-4a52-b4d7-900240b36444)
+
 ArcGIS 10.x, ArcGIS Pro • ArcGIS Online • SDE/Spatial Databases • Data Analysis •SDSFIE • Database • Python/Modelbuilder • Editing/Analysis • Georeferencing • Geoprocessing • Rstudio • PostGIS/SQL • QGIS
 ### EDUCATION 
 University of Oklahoma, Norman, OK 
