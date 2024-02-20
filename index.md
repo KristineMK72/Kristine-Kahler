@@ -60,7 +60,11 @@ Query SQL DB for data relating to land use cases. Updated, digitized, and mainta
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+![ClevelandDasymetric](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/168d9ef3-8768-4d4e-9cad-d3fcf4942a4a)
 
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 ### Category Name 2
 
 - [Saudi Digital Image Processing Classification](https://github.com/KristineMK72/Kristine-Kahler/files/14337745/SaudiLab.pdf)
