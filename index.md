@@ -89,7 +89,7 @@ Query SQL DB for data relating to land use cases. Updated, digitized, and mainta
 
 - [Saudi Digital Image Processing Classification](https://github.com/KristineMK72/Kristine-Kahler/files/14337745/SaudiLab.pdf)
 - [Brainerd](https://github.com/KristineMK72/Kristine-Kahler/issues/1)
-- [RStudioLung](KKahlerPennLungCancer.pdf](https://github.com/KristineMK72/Kristine-Kahler/files/14338308/KKahlerPennLungCancer.pdf)
+- [RStudioLung](https://github.com/KristineMK72/Kristine-Kahler/files/14338308/KKahlerPennLungCancer.pdf)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
