@@ -29,6 +29,12 @@ ArcGIS 10.x, ArcGIS Pro • ArcGIS Online • SDE/Spatial Databases • Data Ana
 - GIS minor
  
 # PROFESSIONAL EXPERIENCE
+![mgrc](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/bb807926-751d-4d0e-b7cd-7765a2387abc)
+![gdot](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/f131da8c-1f06-4a89-a2dc-eebd391084e8)
+![xcel](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/5b67cde0-17a7-4229-acaf-76a04997846a)
+![hdr](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/fc868aef-ab37-4bbc-bc2a-569eb484236b)
+![national grid](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/b98918d8-f5e9-4998-9e2c-bdd76c58bd86)
+
 ###  Insight Global/HDR Inc 2023- Current 
 GIS Analyst
 - Data Enhancement 
