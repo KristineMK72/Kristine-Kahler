@@ -50,7 +50,7 @@ Query SQL DB for data relating to land use cases. Updated, digitized, and mainta
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+![baxter](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/211eac9f-8f5d-458d-bf7e-527f73152d3e)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
