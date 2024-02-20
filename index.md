@@ -18,15 +18,16 @@ ArcGIS 10.x, ArcGIS Pro • ArcGIS Online • SDE/Spatial Databases • Data Ana
 ### EDUCATION 
 University of Oklahoma, Norman, OK 
 - May 2024, M.S. Geospatial Technology
-  ![e6757861211d2926bcaadc7ff4eca8b6](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/fb14633f-00ba-4640-895e-004016b14d98)
+<img src ="https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/fb14633f-00ba-4640-895e-004016b14d98" width="50 height= "50"
 
 
 St. Cloud State University, St. Cloud, MN
+ ![scsu](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/9aa99cee-8755-4953-bfee-4acf1966cdfe)
 - May 2015 BA Planning and Community Development
 - Environmental Planning
 - GIS in Planning
 - GIS minor
-  ![scsu](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/9aa99cee-8755-4953-bfee-4acf1966cdfe)
+ 
 # PROFESSIONAL EXPERIENCE
 ###  Insight Global/HDR Inc 2023- Current 
 GIS Analyst. Data Enhancement. Update USAFA Infrastructure GIS/Geodatabase working with As-Built Documents. 
@@ -49,10 +50,6 @@ Meter Survey Technician (contract) • Data collection and meter survey project 
 Query SQL DB for data relating to land use cases. Updated, digitized, and maintained city/county GIS land use cases, public works road and utility features with ArcMap 10.6.
 ### Category Name 1 
 
-![Brainerd](https://github.com/KristineMK72/Kristine-Kahler/issues/1)
-<img src="rentals.png"?raw=true"/>
-
----
 ![hot](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/b469b96a-38c6-41f5-88db-9c114b3e15ce)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
