@@ -1,11 +1,12 @@
-## Portfolio and Professional Background
+# My Professional Playground
 
 ---
 # Kristine Kahler 
-## GeoSpatial Technology 
+
+## Sustainability with GIS 
 218-839-1327 / kkahler190@gmail.com
 
-# Background and Experience
+# A Little About Me
 ## OBJECTIVE: 
 GIS and Planning professional with 8 years experience in volunteer and professional roles, combined with extensive ESRI and ArcGIS, QGIS product knowledge and use. Excels in organizing complex datasets into maps for accessibility and communication. Excellent in solo, team, and leadership roles. 
 ### TECHNICAL EXPERIENCE
