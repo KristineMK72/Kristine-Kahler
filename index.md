@@ -114,6 +114,7 @@ Intern
 - [Syracuse](https://arcg.is/1vmTCa)
 - [Syracuse Aggregated Crime with Poverty](https://arcg.is/19bT400)
 - [Minnesota Features](https://arcg.is/1Of1Ln)
+- [Syracuse Swipe Map] (https://arcg.is/1HX1PD0)
 ---
 
 
