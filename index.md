@@ -103,15 +103,17 @@ Intern
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-### Labs and Projects placeholder
+### Labs and Projects 
 
 - [Saudi Digital Image Processing Classification](https://github.com/KristineMK72/Kristine-Kahler/files/14337745/SaudiLab.pdf)
-- [Syracuse](https://arcg.is/1vmTCa)
 - [RStudioLung](https://github.com/KristineMK72/Kristine-Kahler/files/14338308/KKahlerPennLungCancer.pdf)
-- [Syracuse Aggregated Crime with Poverty](https://arcg.is/19bT400))
 - [LIDAR View of Mount Sanitas.pdf](https://github.com/KristineMK72/Kristine-Kahler/files/14338487/LIDAR.View.of.Mount.Sanitas.pdf)
+  
+### Web Based Analysis/ArcOnline
 
-
+- [Syracuse](https://arcg.is/1vmTCa)
+- [Syracuse Aggregated Crime with Poverty](https://arcg.is/19bT400)
+- [Minnesota Features](https://arcg.is/1Of1Ln)
 ---
 
 
