@@ -106,9 +106,9 @@ Intern
 ### Labs and Projects placeholder
 
 - [Saudi Digital Image Processing Classification](https://github.com/KristineMK72/Kristine-Kahler/files/14337745/SaudiLab.pdf)
-- [Syracuse](https://arcg.is/1vmTCa))
+- [Syracuse](https://arcg.is/1vmTCa)
 - [RStudioLung](https://github.com/KristineMK72/Kristine-Kahler/files/14338308/KKahlerPennLungCancer.pdf)
-- [DelphiKnowBeforeYouGo](https://github.com/KristineMK72/Kristine-Kahler/files/14338451/delphi.pdf)
+- [Syracuse Aggregated Crime with Poverty](https://arcg.is/19bT400))
 - [LIDAR View of Mount Sanitas.pdf](https://github.com/KristineMK72/Kristine-Kahler/files/14338487/LIDAR.View.of.Mount.Sanitas.pdf)
 
 
