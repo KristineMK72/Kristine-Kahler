@@ -16,14 +16,14 @@ GIS and Planning professional with 8 years experience in volunteer and professio
 ![esri](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/8c14cad7-cedf-4a52-b4d7-900240b36444)
 
 ArcGIS 10.x, ArcGIS Pro • ArcGIS Online • SDE/Spatial Databases • Data Analysis •SDSFIE • Database • Python/Modelbuilder • Editing/Analysis • Georeferencing • Geoprocessing • Rstudio • PostGIS/SQL • QGIS
-### EDUCATION 
+# EDUCATION 
 ![th](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/9f289dde-0bb3-4a06-a18f-6c720f82c7a7)
 
-# University of Oklahoma, Norman, OK 
+## University of Oklahoma, Norman, OK 
 - May 2024, M.S. Geospatial Technology
 
  ![scsu](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/9aa99cee-8755-4953-bfee-4acf1966cdfe)
- # St. Cloud State University, St. Cloud, MN
+ ## St. Cloud State University, St. Cloud, MN
 - May 2015 BA Planning and Community Development
 - Environmental Planning
 - GIS in Planning
@@ -57,7 +57,8 @@ GIS Technician/Electric Data Analyst.
  - Update GDOT GIS database
  - Digitize local roadway features
  - MAP-21 Federal Project (REVAMP)
- - ArcPro 2.9 
+ - ArcPro 2.9
+   
 ###  Aerotek (Ramtech) Stillwater, MN, 2021 
 GIS Technician II 
 - Maintain, and update the SDE database
