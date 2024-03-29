@@ -109,6 +109,7 @@ Intern
 - [Saudi Digital Image Processing Classification](https://github.com/KristineMK72/Kristine-Kahler/files/14337745/SaudiLab.pdf)
 - [RStudioLung](https://github.com/KristineMK72/Kristine-Kahler/files/14338308/KKahlerPennLungCancer.pdf)
 - [LIDAR View of Mount Sanitas.pdf](https://github.com/KristineMK72/Kristine-Kahler/files/14338487/LIDAR.View.of.Mount.Sanitas.pdf)
+- ![OK 2016 Rainfall by Month](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/5f5816a4-0292-459c-8dea-0c42e1abbacc)
   
 ### Web Based Analysis/ArcOnline/Google Earth Engine
 
