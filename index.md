@@ -38,19 +38,19 @@ ArcGIS 10.x, ArcGIS Pro • ArcGIS Online • SDE/Spatial Databases • Data Ana
 
 ###  Insight Global/HDR Inc 2023- Current 
 GIS Analyst
-- Data Enhancement 
+- Data Enhancement ArcGIS Pro 
 - Update USAFA Infrastructure GIS/Geodatabase working with As-Built Documents. 
 
 ###  Experis/National Grid 2022-2023
 GIS Technician/Electric Data Analyst. 
-- Data Enhancement, virtual walkdown via ArcGisOnline
-- Update Electric Geodatabase, verify objects, modify maps related to electric feeders. 
+- Data Enhancement, virtual walkdown primary feeders via ArcGisOnline (imap)
+- Update Electric Geodatabase assets, verify and modify electric assets  
 - Push requests to maps and records for changes related to electric assets on primary index map
   
 ###  Freelance GIS Specialist (self-employed, ongoing), 2011 – Current 
 - Working with local agencies and nonprofits
 - Analyst and technician.
-- QGIS, ArcPro, ArcMap 10.x
+- QGIS, ArcPro, ArcMap 10.x, R
   
 ###  ESG Consulting, Inc (GDOT) MGRC, Macon GA 2021 – 2022
  GIS Technician 
