@@ -10,19 +10,15 @@
 ## OBJECTIVE: 
 GIS and Planning professional with 8 years experience in volunteer and professional roles, combined with extensive ESRI and ArcGIS, QGIS product knowledge and use. Excels in organizing complex datasets into maps for accessibility and communication. Excellent in solo, team, and leadership roles. 
 ### TECHNICAL EXPERIENCE
-![postgres](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/29ef67e1-df08-4f43-9f76-1b2a1bfad989)
-![python](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/2266657c-4a73-42d0-a552-d6b2b90c100f)
-![qgis](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/bec329f7-5c70-411e-9538-6e0a10572640)
-![esri](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/8c14cad7-cedf-4a52-b4d7-900240b36444)
+
 
 ArcGIS 10.x, ArcGIS Pro • ArcGIS Online • SDE/Spatial Databases • Data Analysis •SDSFIE • Database • Python/Modelbuilder • Editing/Analysis • Georeferencing • Geoprocessing • Rstudio • PostGIS/SQL • QGIS
 # EDUCATION 
-![th](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/9f289dde-0bb3-4a06-a18f-6c720f82c7a7)
 
 ## University of Oklahoma, Norman, OK 
 - May 2024, M.S. Geospatial Technology
 
- ![scsu](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/9aa99cee-8755-4953-bfee-4acf1966cdfe)
+
  ## St. Cloud State University, St. Cloud, MN
 - May 2015 BA Planning and Community Development
 - Environmental Planning
@@ -30,11 +26,7 @@ ArcGIS 10.x, ArcGIS Pro • ArcGIS Online • SDE/Spatial Databases • Data Ana
 - GIS minor
  
 # PROFESSIONAL EXPERIENCE
-![mgrc](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/bb807926-751d-4d0e-b7cd-7765a2387abc)
-![gdot](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/f131da8c-1f06-4a89-a2dc-eebd391084e8)
-![xcel](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/5b67cde0-17a7-4229-acaf-76a04997846a)
-![hdr](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/fc868aef-ab37-4bbc-bc2a-569eb484236b)
-![national grid](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/b98918d8-f5e9-4998-9e2c-bdd76c58bd86)
+
 
 ###  Insight Global/HDR Inc 2023- Current 
 GIS Analyst
