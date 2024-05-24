@@ -10,30 +10,31 @@
 ## OBJECTIVE: 
 GIS and Planning professional with 8 years experience in volunteer and professional roles, combined with extensive ESRI and ArcGIS, QGIS product knowledge and use. Excels in organizing complex datasets into maps for accessibility and communication. Excellent in solo, team, and leadership roles. 
 ### TECHNICAL EXPERIENCE
-
-
+![qgis](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/b19b5e50-4048-4174-8e77-b744c9ebfe89)
+![arc](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/62d95c9a-9144-4625-8568-7cd29255ff09)
+![postgres](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/7b1f7948-2286-4212-b889-b12e8e22ea17)
 ArcGIS 10.x, ArcGIS Pro • ArcGIS Online • SDE/Spatial Databases • Data Analysis •SDSFIE • Database • Python/Modelbuilder • Editing/Analysis • Georeferencing • Geoprocessing • Rstudio • PostGIS/SQL • QGIS
 # EDUCATION 
 
 ## University of Oklahoma, Norman, OK 
-- May 2024, M.S. Geospatial Technology
+![ou](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/0afbaaab-ad9c-409f-bc20-7be2da34eb59)
+- May 2024, M.S. Geography and Environmental Sustainaability; Geospatial Technology
 
 
  ## St. Cloud State University, St. Cloud, MN
-- May 2015 BA Planning and Community Development
-- Environmental Planning
-- GIS in Planning
+ ![scsu](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/6ab5503b-23e3-44fe-86f0-d7ea3f4c338f)
+- May 2015 BA Planning and Community Development; Environmental Planning, GIS in Planning
 - GIS minor
  
 # PROFESSIONAL EXPERIENCE
-
-
-###  Insight Global/HDR Inc 2023- Current 
+###  Insight Global/HDR Inc 2023-3/30/2024
+![hdr](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/977d2a35-10e1-45cf-8ba4-78f7803e6ff7)
 GIS Analyst
 - Data Enhancement ArcGIS Pro 
 - Update USAFA Infrastructure GIS/Geodatabase working with As-Built Documents. 
 
 ###  Experis/National Grid 2022-2023
+![nationalgrid](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/222e31e0-8607-4849-a666-9c2277ad3857)
 GIS Technician/Electric Data Analyst. 
 - Data Enhancement, virtual walkdown primary feeders via ArcGisOnline (imap)
 - Update Electric Geodatabase assets, verify and modify electric assets  
@@ -45,6 +46,9 @@ GIS Technician/Electric Data Analyst.
 - QGIS, ArcPro, ArcMap 10.x, R
   
 ###  ESG Consulting, Inc (GDOT) MGRC, Macon GA 2021 – 2022
+![mgrc](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/a2f38414-1596-4135-82e9-7820dc788bd3)
+![gdot](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/894018c7-ef4a-4a64-a187-c5b544787ea5)
+
  GIS Technician 
  - Update GDOT GIS database
  - Digitize local roadway features
@@ -59,6 +63,7 @@ GIS Technician II
 - Assign work orders to Tech 1s
    
 ###  Mindlance (Xcel Energy) Minneapolis, MN, 2020 – 2021 
+![xcel](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/2ab4a746-25ec-4c0b-9e54-67a742535718)
 GIS Technician III (contract) 
 - Created energy-related cases for new and existing services
 - Query client DB and GIS related to Tax jurisdiction
