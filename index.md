@@ -10,12 +10,12 @@
 ## OBJECTIVE: 
 GIS and Planning professional with 8 years experience in volunteer and professional roles, combined with extensive ESRI and ArcGIS, QGIS product knowledge and use. Excels in organizing complex datasets into maps for accessibility and communication. Excellent in solo, team, and leadership roles. 
 ### TECHNICAL EXPERIENCE
-![qgis](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/b19b5e50-4048-4174-8e77-b744c9ebfe89)
 ![arc](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/62d95c9a-9144-4625-8568-7cd29255ff09)
+![qgis](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/b19b5e50-4048-4174-8e77-b744c9ebfe89)
 ![postgres](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/7b1f7948-2286-4212-b889-b12e8e22ea17)
-ArcGIS 10.x, ArcGIS Pro • ArcGIS Online • SDE/Spatial Databases • Data Analysis •SDSFIE • Database • Python/Modelbuilder • Editing/Analysis • Georeferencing • Geoprocessing • Rstudio • PostGIS/SQL • QGIS
-# EDUCATION 
+- ArcGIS 10.x, ArcGIS Pro • ArcGIS Online • SDE/Spatial Databases • Data Analysis •SDSFIE • Database • Python/Modelbuilder • Editing/Analysis • Georeferencing • Geoprocessing • Rstudio • PostGIS/SQL • QGIS
 
+# EDUCATION 
 ## University of Oklahoma, Norman, OK 
 ![ou](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/0afbaaab-ad9c-409f-bc20-7be2da34eb59)
 - May 2024, M.S. Geography and Environmental Sustainaability; Geospatial Technology
@@ -29,13 +29,13 @@ ArcGIS 10.x, ArcGIS Pro • ArcGIS Online • SDE/Spatial Databases • Data Ana
 # PROFESSIONAL EXPERIENCE
 ###  Insight Global/HDR Inc 2023-3/30/2024
 ![hdr](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/977d2a35-10e1-45cf-8ba4-78f7803e6ff7)
-GIS Analyst
+- GIS Analyst
 - Data Enhancement ArcGIS Pro 
 - Update USAFA Infrastructure GIS/Geodatabase working with As-Built Documents. 
 
 ###  Experis/National Grid 2022-2023
 ![nationalgrid](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/222e31e0-8607-4849-a666-9c2277ad3857)
-GIS Technician/Electric Data Analyst. 
+- GIS Technician/Electric Data Analyst. 
 - Data Enhancement, virtual walkdown primary feeders via ArcGisOnline (imap)
 - Update Electric Geodatabase assets, verify and modify electric assets  
 - Push requests to maps and records for changes related to electric assets on primary index map
@@ -56,7 +56,7 @@ GIS Technician/Electric Data Analyst.
  - ArcPro 2.9
    
 ###  Aerotek (Ramtech) Stillwater, MN, 2021 
-GIS Technician II 
+- GIS Technician II 
 - Maintain, and update the SDE database
 - Digitize service lines and related features based on legacy work orders
 - Assist GIS Tech I coworkers with GIS, gas service projects
@@ -64,24 +64,24 @@ GIS Technician II
    
 ###  Mindlance (Xcel Energy) Minneapolis, MN, 2020 – 2021 
 ![xcel](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/2ab4a746-25ec-4c0b-9e54-67a742535718)
-GIS Technician III (contract) 
+- GIS Technician III (contract) 
 - Created energy-related cases for new and existing services
 - Query client DB and GIS related to Tax jurisdiction
 - Pushed work related to existing service and new joint trench (plats) projects.
 
 ###  Business Technical Services, Dayton, OH, 2020 
-Meter Survey Technician (contract) 
+- Meter Survey Technician (contract) 
 -  Data collection and meter survey project using ArcGIS Collector/Survey,
 -  QA/QC field work in client’s ArcGIS, ArcGIS Online 10x
   
 ### Aitkin County, Aitkin, MN, 2016 Environmental Services
-Intern 
+- Intern 
 - Updated County GIS Data using ArcGIS Online, ArcMap 10.x Collector apps.
 - Located and digitized/GPS wells based on MN Dept. of Health and County historical records.
 - Converted tabular data to spatial data.
 
 ### City of Baxter, Baxter, MN, 2014, 
-Intern 
+- Intern 
 - Query SQL DB for data relating to land use cases.
 - Updated, digitized, and maintained city/county GIS land use cases, public works road and utility features with ArcMap 10.6.
 
