@@ -4,12 +4,12 @@
 # Kristine Kahler 
 ![world](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/65d62dde-6aaf-4350-9f64-972785d631eb)
 ## Human Sustainability with GIS 
-218-839-1327 / kkahler190@gmail.com
+218-821-4359 / kkahler190@gmail.com
 
-## OBJECTIVE: 
+# OBJECTIVE: 
 Remote-first Geospatial Analyst with over 8 years of experience delivering end-to-end GIS solutions. Proven expertise in developing and managing enterprise databases, creating actionable reports with SQL, and performing rigorous QA/QC to ensure high data integrity. Adept at collaborating with distributed teams and training clients on GIS best practices.
 
-### TECHNICAL EXPERIENCE
+# TECHNICAL EXPERIENCE
 ## GIS Software & Platforms: 
 - ArcGIS Pro, ArcGIS Online, QGIS, Smallworld GIS, Google Earth Engine, LiDAR & UAV Data Processing
 ## Data Management & Analysis: 
@@ -21,7 +21,7 @@ Remote-first Geospatial Analyst with over 8 years of experience delivering end-t
 ## University of Oklahoma, Norman, OK 
 - May 2024, M.S. Geography and Environmental Sustainaability; Geospatial Technology
 
- ## St. Cloud State University, St. Cloud, MN
+## St. Cloud State University, St. Cloud, MN
 - May 2015 BA Planning and Community Development; Environmental Planning, GIS in Planning
 - GIS minor
  
@@ -96,13 +96,17 @@ Remote-first Geospatial Analyst with over 8 years of experience delivering end-t
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
+- ![OK 2016 Rainfall by Month](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/5f5816a4-0292-459c-8dea-0c42e1abbacc)
 ### Labs and Projects 
 
 - [Saudi Digital Image Processing Classification](https://github.com/KristineMK72/Kristine-Kahler/files/14337745/SaudiLab.pdf)
 - [RStudioLung](https://github.com/KristineMK72/Kristine-Kahler/files/14338308/KKahlerPennLungCancer.pdf)
 - [LIDAR View of Mount Sanitas.pdf](https://github.com/KristineMK72/Kristine-Kahler/files/14338487/LIDAR.View.of.Mount.Sanitas.pdf)
-- ![OK 2016 Rainfall by Month](https://github.com/KristineMK72/Kristine-Kahler/assets/124746855/5f5816a4-0292-459c-8dea-0c42e1abbacc)
-- 
+- [371/210 simple econ impact analysis](https://docs.google.com/document/d/1GI2qtKMgy-8UI1Yh8nM0S8lhGcAwFhHvop-KzHoB510/edit?usp=sharing)
+- [Children's Museum eia](https://docs.google.com/document/d/1MQ4BxkoSUWm4IIvcd6Qgyyb-OHR5TSHsWQn12gyFZPU/edit?usp=sharing)
+- [Panic](https://docs.google.com/document/d/15HOqRdLOWozJ5LQSo-cJV6SL-qW1Y0gfgCijNIw4Zlo/edit?usp=sharing)
+  
 ### Web Based Analysis/ArcOnline/Google Earth Engine
 
 - [Syracuse](https://arcg.is/1vmTCa)
