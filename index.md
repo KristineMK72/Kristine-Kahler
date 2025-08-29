@@ -1,4 +1,4 @@
-# My Professional Playground
+# Kristine Kahler: GIS, Data, Cartography
 
 ---
 # Kristine Kahler 
@@ -7,7 +7,7 @@
 218-821-4359 / kkahler190@gmail.com
 
 # OBJECTIVE: 
-Remote-first Geospatial Analyst with over 8 years of experience delivering end-to-end GIS solutions. Proven expertise in developing and managing enterprise databases, creating actionable reports with SQL, and performing rigorous QA/QC to ensure high data integrity. Adept at collaborating with distributed teams and training clients on GIS best practices.
+Remote-first Geospatial Analyst with over 10 years of experience delivering end-to-end GIS solutions. Proven expertise in developing and managing enterprise databases, creating actionable reports with SQL, and performing rigorous QA/QC to ensure high data integrity. Adept at collaborating with distributed teams and training clients on GIS best practices.
 
 # TECHNICAL EXPERIENCE
 ## GIS Software & Platforms: 
